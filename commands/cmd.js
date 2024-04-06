@@ -18,7 +18,7 @@ for (const file of commands) {
         continue
     }
     const command = require(`./${file}`);
-    commandCollections.push({name: commandName, desc: command.desc})
+    commandCollections.push({name: command.name, desc: command.desc})
 }
 console.log(commandCollections)
 

@@ -1,9 +1,5 @@
 {
     "token": "",
     "clientId": "",
-    "valapitoken": "",
-    "apexapitoken": "",
-    "prefix": "",
-    "valImgCdnBaseUrl": "",
-    "apexImgCdnBaseUrl": ""
+    "prefix": ""
 }
